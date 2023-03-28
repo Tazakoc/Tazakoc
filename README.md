@@ -3,13 +3,9 @@
 
 - 🌱 I’m currently learning **React & JavaScript**
 
-- 👀 I’m interested in **Software engineering and specifically for Web Development and more.**
+- 👀 I’m interested in **Software engineering, Fullstack Engineering and more.**
 
 - 📫 How to reach me **kwctas.pap@outlook.com**
-
-- 📄 Know about my experiences [https://cvtr.ee/-/kpapakonstantinou](https://cvtr.ee/-/kpapakonstantinou)
-
-- 💞️ I’m looking for **an Entry Level Software Engineer position that will enable me to use my strong skills and educational background.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
