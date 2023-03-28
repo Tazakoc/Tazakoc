@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Konstantinos Papakonstantinou</h1>
 <h3 align="center">A passionate Engineer from Greece</h3>
 
-- 🔭 I’m currently working at [Technor Engineering](https://www.technor.gr/)
+- 🔭 I’m currently working at [Technor Engineering] as Fullstack Engineer(https://www.technor.gr/)
 
 - 🌱 I’m currently learning **React, JavaScript, GO and more..**
 
