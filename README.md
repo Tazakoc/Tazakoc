@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Konstantinos Papakonstantinou</h1>
 <h3 align="center">A passionate Engineer from Greece</h3>
 
-- 🌱 I’m currently learning **React & JavaScript**
+- 🌱 I’m currently learning **React, JavaScript, GO and more..**
 
-- 👀 I’m interested in **Software engineering, Fullstack Engineering and more.**
+- 👀 I’m interested in **Software engineering, Fullstack Engineering and more..**
 
 - 📫 How to reach me **kwctas.pap@outlook.com**
 
