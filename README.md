@@ -6,7 +6,7 @@ Fullstack Developer/Engineer
 
 * 🌍  I'm based in Greece
 * 🖥️  See my portfolio at [My portfolio](http://tazakoc-dev.com)
-* ✉️  You can contact me at [kwctas.pap@outlook.com](mailto:kwctas.pap@outlook.com)
+* ✉️  You can contact me at [kwctas.pap@outlook.com](mailto:kwctas.pap@gmail.com)
 * 🚀  I'm currently working on [Technor as Fullstack Engineer](http://technor.com)
 * 🤝  I'm open to collaborating on almost everything.
 
