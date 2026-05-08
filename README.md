@@ -4,12 +4,20 @@
   <img src="https://komarev.com/ghpvc/?username=Tazakoc&label=Profile%20views&color=0e75b6&style=flat" alt="Tazakoc profile views" />
 </p>
 
-- 🔭 I'm currently working on **a Turborepo fullstack project**
-- 🌱 I'm currently learning **AI**
-- 👯 I'm looking to collaborate on **open-source projects with AI automations**
-- 💬 Ask me about **anything**
+## About me
+
+I'm Konstantinos Papakonstantinou, a fullstack developer focused on building modern web applications with **React**, **Next.js**, **Node.js**, **PostgreSQL**, and **Turborepo**.
+
+I enjoy creating clean, scalable fullstack systems, experimenting with AI-powered tools, and improving developer workflows through automation. I'm currently working on a Turborepo-based fullstack project while expanding my knowledge in AI and intelligent automation.
+
+I'm open to collaborating on open-source projects, especially projects involving web development, AI integrations, productivity tools, and automation systems.
+
+- 🔭 Currently working on **a Turborepo fullstack project**
+- 🌱 Currently learning **AI and automation**
+- 👯 Open to collaborating on **open-source AI automation projects**
+- 💬 Ask me about **fullstack development, React, Next.js, Node.js, PostgreSQL, and AI tools**
 - 📫 Reach me at **kwctas.pap@outlook.com**
-- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/kwstaspapakonstantinou/)**
+- 📝 I write and share updates on **[LinkedIn](https://www.linkedin.com/in/kwstaspapakonstantinou/)**
 
 ---
 
