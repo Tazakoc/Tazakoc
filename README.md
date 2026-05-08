@@ -15,31 +15,12 @@
 
 ## Connect with me
 
-<p align="left">
-  <a href="https://github.com/Tazakoc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/kwstaspapakonstantinou" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/tazakoc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.twitch.tv/Tazakoc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Tazakoc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/tazakoc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Tazakoc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tazakoc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Konstantinos%20Papakonstantinou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kwstaspapakonstantinou)
+[![Facebook](https://img.shields.io/badge/Facebook-Tazakoc-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tazakoc)
+[![Twitch](https://img.shields.io/badge/Twitch-Tazakoc-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/Tazakoc)
+[![YouTube](https://img.shields.io/badge/YouTube-Tazakoc-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Tazakoc)
+[![Discord](https://img.shields.io/badge/Discord-tazakoc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tazakoc)
 
 ---
 
