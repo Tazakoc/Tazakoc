@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=535&height=44&lines=A%20developer%20running%20on%200%25%20coffee!" alt="Typing headlines" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Tazakoc&label=Profile%20views&color=0e75b6&style=flat" alt="Tazakoc profile views" />
+</p>
+
 ### 🚀 About Me
 
 I'm Konstantinos Papakonstantinou, a fullstack developer focused on building modern web applications with React, Next.js, Node.js, PostgreSQL, and Turborepo.  
@@ -88,6 +92,14 @@ I'm open to collaborating on open-source projects, especially projects involving
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tazakoc&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tazakoc" alt="Tazakoc GitHub streak" />
 </p>
 
 ### 💭 Dev Quote
