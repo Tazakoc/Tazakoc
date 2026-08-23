@@ -23,7 +23,7 @@ productivity tools, and automation systems.
 🌱 &nbsp;I'm currently learning **AI &amp; Automations**  
 👯 &nbsp;I'm looking to collaborate on **open-source AI automation projects**  
 💬 &nbsp;Ask me about **fullstack development, React, Next.js, Node.js, PostgreSQL, and AI tools**  
-😄 &nbsp;Pronouns: **he/his**
+😄 &nbsp;Pronouns: **he/him**
 
 ### 🛠️ Tech Stack
 
