@@ -98,7 +98,7 @@ I'm open to collaborating on open-source projects, especially projects involving
 
 ### GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tazakoc" alt="Tazakoc GitHub streak" />
 </p>
 
