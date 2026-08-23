@@ -14,9 +14,10 @@
 
 ### 🚀 About Me
 
-I'm Konstantinos Papakonstantinou, a fullstack developer focused on building modern web applications with React, Next.js, Node.js, PostgreSQL, and Turborepo.  
-I enjoy creating clean, scalable fullstack systems, experimenting with AI-powered tools, and improving developer workflows through automation. I'm currently working on a Turborepo-based fullstack project while expanding my knowledge in AI and intelligent automation.  
-I'm open to collaborating on open-source projects, especially projects involving web development, AI integrations, productivity tools, and automation systems.
+I'm Konstantinos Papakonstantinou, a fullstack developer focused on building modern web applications with React, Next.js, Node.js, PostgreSQL, and Turborepo.I enjoy creating clean, 
+scalable fullstack systems, experimenting with AI-powered tools, and improving developer workflows through automation. I'm currently working on a Turborepo-based fullstack project 
+while expanding my knowledge in AI and intelligent automation. I'm open to collaborating on open-source projects, especially projects involving web development, AI integrations, 
+productivity tools, and automation systems.
 
 🔭 &nbsp;I'm currently working on **Rain Thread**  
 🌱 &nbsp;I'm currently learning **AI &amp; Automations**  
